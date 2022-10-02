@@ -6,6 +6,7 @@ public class ShakeTruskawkowy extends Shake implements Smak {
     public void pij () {
     }
 
+
     @Override
     public void smak() {
     }
